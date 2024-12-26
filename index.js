@@ -1,4 +1,4 @@
-const express = require('express')
+/*const express = require('express')
 const mongoose = require('mongoose')
 const cors = require('cors')
 require('dotenv').config()
@@ -35,4 +35,4 @@ mongoose.connect(process.env.MONGODB_URI)
 })
 .catch((err)=>{
     console.log(err)
-})
+})*/
